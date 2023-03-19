@@ -1,6 +1,6 @@
-import createCampaign from './create-campaign.svg';
+import CreateComplaint from './create-campaign.svg';
 import dashboard from './dashboard.svg';
-import logo from './logo.svg';
+import logo from './logo.png';
 import logout from './logout.svg';
 import payment from './payment.svg';
 import profile from './profile.svg';
@@ -15,7 +15,7 @@ import thirdweb from './thirdweb.png';
 
 export {
   tagType,
-  createCampaign,
+  CreateComplaint,
   dashboard,
   logo,
   logout,
